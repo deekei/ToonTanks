@@ -1,10 +1,8 @@
 # ToonTanks
 
-This Unreal Game Project was originally a Tutorial Project from the Gamedev.tv's "Unreal 5.0 C++ Developer: Learn C++ and Make Video Games" Course.
+This Unreal Game Project was originally a Tutorial Project from the Gamedev.tv's "Unreal 5.0 C++ Developer: Learn C++ and Make Video Games Section 5: Toon Tanks" Tutorial.
 
-Specifically Section 5 "Toon Tanks" Tutorial.
-
-Besides the intiial build based on the project, I have further implemented my own designs to understand and explore different parts of the Unreal Engine C++ System as well as the Blueprints.
+Besides the completing through the intiial build based on the project, I have further implemented my own designs to understand and explore different parts of the Unreal Engine C++ System as well as the Blueprints.
 
 Below are some of the implementations I have made beyond the original tutorial:
 
